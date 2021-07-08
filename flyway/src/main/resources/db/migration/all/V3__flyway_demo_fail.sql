@@ -1,0 +1,1 @@
+INSERT INTO flyway_demo_schema.flyway_demo(flyway_demo_text, flyway_demo_fun_number) VALUES ('pew pew', 42);
